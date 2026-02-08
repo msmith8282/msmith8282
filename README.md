@@ -1,3 +1,5 @@
+# 🚀 Deep Learning Developer | AI Engineer | Machine Learning Enthusiast
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://t.me/msmith828" target="blank"><img src="tg.jpg" height="30" width="30" /></a>
