@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://t.me/msmith828" target="blank"><img src="tg.jpg" height="30" width="30" /></a>
-<a href="mailto:msmith.ai828@gmail.com" target="blank"><img src="google.jpg" height="30" width="30" /></a></p>
+<a href="mailto:msmith.ai828@proton.me" target="blank"><img src="google.jpg" height="30" width="30" /></a></p>
 
 
 ## Solid Background In
